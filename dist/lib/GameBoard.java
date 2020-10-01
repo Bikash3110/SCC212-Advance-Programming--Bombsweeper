@@ -8,7 +8,6 @@ import java.awt.event.*;
  * of type SmartSquare. If a square is clicked by the user, a
  * callback method is invoked upon the corresponding SmartSquare instance.
  * The class is intended to be used as a basis for tile based games.
- * @author joe finney
  */
 public class GameBoard extends JFrame implements ActionListener
 {
